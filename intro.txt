@@ -1,0 +1,73 @@
+<!Doctype HTML>
+<html>
+<head>
+<title> Introduction </title>
+<h1> WHAT IS HTML? </h1>
+</head>
+<body>
+<p1> HTML (Hyper Text Markup Language) is the standard language used to create and structure content on websites. It was invented by Tim Berners-Lee in 1991 at CERN as part of the World Wide Web project. The current version in use is HTML5, which was finalized in 2014 and is still being improved. HTML5 introduced several enhancements that make modern websites more interactive and efficient.HTML structures content using elements and tags.HTML5 supports multimedia content like video, audio, and canvas without extra plugins.It includes semantic tags like "article", "section", and "header" for better readability and SEO. HTML works closely with CSS (for styling) and JavaScript (for interactivity).It is supported by all modern web browsers and is backward compatible.</p1><br/>
+<br/>
+<b>BASIC STRUCTURE OF HTML</b><br/>
+!Doctype HTML<br/>
+html<br/>
+head<br/>
+title /title<br/>
+/head<br/>
+body<br/>
+p1<br/>
+/body<br/>
+/html<br/>
+<br/>
+<b>Key Parts:</b><br/>
+<br/>
+!DOCTYPE html – Declares HTML5 version.<br/>
+html – Root element of the page.<br/>
+head– Contains meta info (title, styles, scripts).<br/>
+body – Holds visible content (text, images, links, etc.)<br/>
+<br/>
+<b>Common Tags:</b><br/>
+<br/>
+h1 to h6 – Headings<br/>
+p – Paragraph<br/>
+a– Link<br/>
+img– Image<br/>
+ul, li – Lists<br/>
+div, span – Layout elements<br/>
+Tags can be nested, and most come in opening + closing pairs.<br>
+<br>
+<u><b>HTML Text Formatting Tags</b></u><br>
+<br>
+<b>"b"–Makes text bold (no meaning attached).</b><br>
+<strong>"strong"– Bold text with semantic importance.</strong><br>
+<i>"i"– Makes text italic (for visual style only).</i><br>
+<em>"em"– Italic text with emphasis meaning.</em><br>
+<u>"u"– Underlines the text.</u><br>
+<mark>"mark"– Highlights text (yellow background).</mark><br>
+<small>"small"– Displays smaller text.</small><br>
+<del>"del"– Strikethrough (shows deleted content).</del><br>
+<ins>"ins"– Shows inserted text (often underlined).</ins><br>
+<sub>"sub"– Subscript text (e.g., H₂O).</sub><br>
+<sup>"sup"– Superscript text (e.g., x²).</sup><br>
+<br>
+<u><b>CSS Display Properties: inline, block, inline-block</b></u><br>
+<br>
+<b>inline</b><br>
+Flows with text.<br>
+No new line.<br>
+Cannot set width/height.<br>
+E.g., span,a.<br>
+<br>
+<b>Block</b>
+<br>
+Starts on a new line.<br>
+Takes full width.<br>
+Can set width/height.<br>
+E.g., div,p. <br>
+<br>
+<b>inline-block</b><br>
+<br>
+Flows inline like text.<br>
+But you can set width/height<br>
+Best for layouts with images, buttons, etc<br>
+</body>
+</html>
