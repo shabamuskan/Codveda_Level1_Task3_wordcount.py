@@ -29,8 +29,6 @@ It supports multiple programming paradigms and is easy to learn.
 This file is used to demonstrate word counting.
 
 yaml
-Copy
-Edit
 
 > 🧮 Expected Word Count: **25**
 
@@ -42,8 +40,6 @@ Enter the file name: intro.txt
 Word count: 25
 
 yaml
-Copy
-Edit
 
 ---
 
